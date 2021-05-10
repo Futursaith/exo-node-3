@@ -1,0 +1,15 @@
+{
+  "name": "web-infos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "web-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "jsdom": "^16.5.3"
+  }
+}
